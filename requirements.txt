@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-google-genai
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+playwright
+# python -m venv myenv
+# myenv\Scripts\activate
+# pip install -r requirements.txt
+# playwright install
+# python career_agent_gemini.py
